@@ -1,0 +1,9 @@
+color: light blue
+from {background-color: light blue;}
+  to {background-color: red;}
+  div {
+    width: 100px;
+    height: 100px;
+    animation-name: christmas tree;
+    animation-duration: 4s;
+<h1 style="font-size:60px;">Heading 1</h1>
